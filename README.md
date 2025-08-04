@@ -1,3 +1,4 @@
+[Texto que aparece](https://endereco-do-link.com)
 # 👋 Olá! Eu sou a Neide
 
 Desenvolvedora apaixonada por tecnologia, com foco em projetos React, Python e soluções criativas.
@@ -22,5 +23,6 @@ Desenvolvedora apaixonada por tecnologia, com foco em projetos React, Python e s
 ---
 
 > “Transformando ideias em código e código em experiências incríveis.”
+
 
 
